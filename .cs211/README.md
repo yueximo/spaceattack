@@ -18,4 +18,4 @@ This directory contains files for configuring this CS 211 project:
 
     README.md - this file
 
-You probably shouldn’t change anything in here.
+You probably shouldn’t change anything in here
