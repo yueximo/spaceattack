@@ -17,7 +17,7 @@ If the user survives for 3 minutes and wins, the game will stop and text saying 
 If the user does not survive for 3 minutes and loses, the game will stop and text saying “YOU LOSE!” will appear on the screen.
 
 <p align="center">
-  <img src=[game](https://user-images.githubusercontent.com/94990857/144702317-a21a75e3-a632-4feb-958e-0a6c4bab0725.gif) alt="animated" />
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/94990857/144702317-a21a75e3-a632-4feb-958e-0a6c4bab0725.gif">
 </p>
 
 
